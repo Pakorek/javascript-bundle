@@ -1,3 +1,7 @@
+> # This repository has moved to [symfony-javascript/javascript-bundle](//github.com/symfony-javascript/javascript-bundle).
+
+---
+
 # Javascript Bundle
 
 ![Packagist Version](https://img.shields.io/packagist/v/hawezo/javascript-bundle.svg?style=flat-square)
